@@ -1,14 +1,14 @@
 ,blue_name,red_name,prediction,fav_pct,dog_pct,fav_moneyline,dog_moneyline
-0,TJ Dillashaw,Cory Sandhagen,red,0.8,0.2,-400,400
-20,Macy Chiasson,Aspen Ladd,red,0.69,0.31,-222,222
-35,Raulian Paiva,Kyler Phillips,red,0.61,0.39,-156,156
-40,Darrick Minner,Darren Elkins,blue,0.52,0.48,-108,108
-129,Maycee Barber,Miranda Maverick,red,0.63,0.37,-170,170
-131,Jordan Williams,Mickey Gall,red,0.66,0.34,-194,194
-138,Brendan Allen,Punahele Soriano,red,0.75,0.25,-300,300
-145,Chris Daukaus,Shamil Abdurakhimov,red,0.69,0.31,-222,222
-158,Ian Heinisch,Nassourdine Imavov,red,0.55,0.45,-122,122
-163,Randy Costa,Adrian Yanez,red,0.67,0.33,-203,203
-171,Andre Ewell,Julio Arce,red,0.55,0.45,-122,122
-191,Elise Reed,Sijara Eubanks,red,0.72,0.28,-257,257
-214,Hannah Goldy,Diana Belbita,red,0.6,0.4,-150,150
+0,TJ Dillashaw,Cory Sandhagen,red,0.54,0.46,-117,117
+20,Macy Chiasson,Aspen Ladd,blue,0.58,0.42,-138,138
+35,Raulian Paiva,Kyler Phillips,blue,0.54,0.46,-117,117
+40,Darrick Minner,Darren Elkins,blue,0.61,0.39,-156,156
+129,Maycee Barber,Miranda Maverick,blue,0.5,0.5,-100,100
+131,Jordan Williams,Mickey Gall,red,0.54,0.46,-117,117
+138,Brendan Allen,Punahele Soriano,red,0.58,0.42,-138,138
+145,Chris Daukaus,Shamil Abdurakhimov,red,0.56,0.44,-127,127
+158,Ian Heinisch,Nassourdine Imavov,blue,0.63,0.37,-170,170
+163,Randy Costa,Adrian Yanez,blue,0.57,0.43,-132,132
+171,Andre Ewell,Julio Arce,red,0.53,0.47,-112,112
+191,Elise Reed,Sijara Eubanks,red,0.55,0.45,-122,122
+214,Hannah Goldy,Diana Belbita,blue,0.62,0.38,-163,163
