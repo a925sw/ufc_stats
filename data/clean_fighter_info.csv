@@ -4,7 +4,7 @@
 8,Klidson Abreu," Dec 24, 1992", 15-4-0 (1 NC),205,74,Orthodox,72
 11,Juan Adams," Jan 16, 1992", 5-3-0,265,80,Orthodox,77
 12,Anthony Adams," Jan 13, 1988", 8-2-0,185,76,Orthodox,73
-13,Zarrukh Adashev," Jul 29, 1992", 3-3-0,125,65,Southpaw,65
+13,Zarrukh Adashev," Jul 29, 1992", 4-3-0,125,65,Southpaw,65
 14,Israel Adesanya," Jul 22, 1989", 21-1-0,185,80,Switch,76
 17,Mariya Agapova," Apr 07, 1997", 9-2-0,125,68,Southpaw,66
 21,Jessica Aguilar," May 08, 1982", 20-8-0,115,63,Orthodox,63
@@ -56,7 +56,7 @@
 108,Jessica Andrade," Sep 25, 1991", 21-9-0,115,62,Orthodox,61
 109,Viscardi Andrade," Mar 08, 1984", 19-6-0,170,75,Orthodox,71
 111,Dylan Andrews," Nov 15, 1979", 18-7-0 (1 NC),185,74,Switch,73
-114,Collin Anglin," Feb 20, 1993", 8-1-0,145,71,Orthodox,69
+114,Collin Anglin," Feb 20, 1993", 8-2-0,145,71,Orthodox,69
 117,Magomed Ankalaev," Jun 02, 1992", 15-1-0,205,75,Orthodox,75
 118,Gadzhimurad Antigulov," Feb 09, 1987", 20-8-0,205,70,Orthodox,71
 119,Adam Antolin," Feb 28, 1982", 12-3-0,125,63,Orthodox,65
@@ -93,7 +93,7 @@
 182,Ryan Bader," Jun 07, 1983", 23-5-0,205,74,Orthodox,74
 184,Miguel Baeza," Aug 23, 1992", 10-1-0,170,74,Orthodox,74
 185,Ali Bagautinov," Jun 10, 1985", 15-6-0,125,65,Orthodox,64
-187,Melsik Baghdasaryan," Jan 28, 1992", 5-1-0,145,70,Southpaw,69
+187,Melsik Baghdasaryan," Jan 28, 1992", 6-1-0,145,70,Southpaw,69
 188,Siyar Bahadurzada," Apr 17, 1984", 24-8-1,170,73,Orthodox,71
 189,Ignacio Bahamondes," Aug 27, 1997", 11-4-0,170,75,Orthodox,75
 190,Shamar Bailey," Sep 22, 1982", 16-11-0,155,75,Southpaw,69
@@ -103,7 +103,7 @@
 201,Antonio Banuelos," Sep 23, 1979", 20-11-1,135,63,Orthodox,65
 202,Renan Barao," Jan 31, 1987", 34-9-0 (1 NC),145,70,Orthodox,66
 204,Maycee Barber," May 18, 1998", 9-2-0,125,65,Switch,65
-205,Bryan Barberena," May 03, 1989", 15-7-0,170,72,Southpaw,72
+205,Bryan Barberena," May 03, 1989", 15-8-0,170,72,Southpaw,72
 206,Edson Barboza," Jan 21, 1986", 22-9-0,145,75,Orthodox,71
 207,Raoni Barcelos," May 01, 1987", 16-2-0,135,67,Orthodox,67
 209,Luke Barnatt," Apr 13, 1988", 13-4-0,185,77,Orthodox,78
@@ -132,7 +132,7 @@
 258,Gabriel Benitez," Jun 15, 1988", 22-10-0,155,71,Southpaw,68
 261,DeAnna Bennett," Nov 18, 1984", 8-3-1,125,68,Orthodox,64
 262,Lance Benoist," Aug 26, 1988", 7-2-0,170,72,Southpaw,71
-264,Ryan Benoit," Aug 25, 1989", 10-7-0,125,68,Orthodox,65
+264,Ryan Benoit," Aug 25, 1989", 10-8-0,125,68,Orthodox,65
 268,Kenneth Bergh," Jun 26, 1989", 8-0-0 (1 NC),205,74,Orthodox,74
 271,Dennis Bermudez," Dec 13, 1986", 17-9-0,155,66,Orthodox,66
 272,Manny Bermudez," Jul 16, 1994", 14-2-0,145,71,Orthodox,70
@@ -209,7 +209,7 @@
 429,Herbert Burns," Feb 02, 1988", 11-3-0,145,73,Orthodox,69
 435,Dakota Bush," Jun 09, 1994", 8-3-0,155,73,Orthodox,70
 444,JP Buys," Apr 30, 1996", 9-3-0,125,67,Orthodox,65
-445,Cheyanne Buys," Jun 25, 1995", 5-2-0,115,63,Switch,63
+445,Cheyanne Buys," Jun 25, 1995", 6-2-0,115,63,Switch,63
 446,Dennis Buzukja," Oct 01, 1997", 4-2-0,145,71,Switch,69
 447,Charles Byrd," Oct 11, 1983", 10-7-0,185,73,Orthodox,70
 450,Yan Cabral," May 13, 1983", 13-3-0,155,73,Orthodox,71
@@ -259,7 +259,7 @@
 544,Alex Chambers," Oct 25, 1978", 5-5-0,115,63,Southpaw,63
 545,Michael Chandler," Apr 24, 1986", 22-6-0,155,71,Orthodox,68
 549,Ernest Chavez," Jun 27, 1983", 10-2-0,145,70,Orthodox,68
-551,Danny Chavez," Mar 14, 1987", 11-4-0,145,67,Orthodox,68
+551,Danny Chavez," Mar 14, 1987", 11-4-1,145,67,Orthodox,68
 556,Mark Cherico," May 12, 1986", 11-1-0,145,69,Orthodox,67
 557,Macy Chiasson," Jul 27, 1991", 8-1-0,135,72,Orthodox,71
 558,Michael Chiesa," Dec 07, 1987", 18-4-0,170,75,Southpaw,73
@@ -297,7 +297,7 @@
 640,Bethe Correia," Jun 22, 1983", 11-5-1,135,64,Orthodox,65
 642,Tracy Cortez," Dec 10, 1993", 9-1-0,135,65,Orthodox,65
 644,Louis Cosce," Aug 27, 1995", 7-1-0,170,71,Orthodox,69
-645,Orion Cosce," Jul 15, 1994", 7-0-0,170,71,Switch,71
+645,Orion Cosce," Jul 15, 1994", 7-1-0,170,71,Switch,71
 649,Paulo Costa," Apr 21, 1991", 13-1-0,185,72,Orthodox,73
 650,Randy Costa," Jul 06, 1994", 6-2-0,135,73,Switch,69
 651,Oscar Cota," Oct 15, 1984", 11-3-0 (1 NC),230,72,Orthodox,72
@@ -356,7 +356,7 @@
 748,Mark De La Rosa," Aug 31, 1994", 11-5-0,135,65,Orthodox,66
 749,Mike de la Torre," Sep 22, 1986", 14-7-0 (1 NC),145,71,Orthodox,71
 755,Isabela de Padua," Sep 04, 1991", 5-2-0,125,64,Orthodox,63
-756,Gloria de Paula," Jun 10, 1995", 5-3-0,115,67,Orthodox,65
+756,Gloria de Paula," Jun 10, 1995", 5-4-0,115,67,Orthodox,65
 757,Germaine de Randamie," Apr 24, 1984", 10-4-0,135,71,Orthodox,69
 764,Rolando Delgado," Nov 22, 1981", 11-6-1,155,77,Orthodox,75
 768,Roland Delorme," Dec 18, 1983", 9-5-0 (1 NC),135,71,Orthodox,69
@@ -491,7 +491,7 @@
 1046,Patricio Freire," Jul 07, 1987", 26-4-0,145,65,Orthodox,65
 1047,Patricky Freire," Jun 01, 1986", 17-8-0,155,71,Orthodox,67
 1053,Matt Frevola," Jun 11, 1990", 8-3-1,155,71,Orthodox,69
-1054,Jinh Yu Frey," May 20, 1985", 10-6-0,115,65,Southpaw,63
+1054,Jinh Yu Frey," May 20, 1985", 11-6-0,115,65,Southpaw,63
 1056,Sarah Frota," Apr 14, 1987", 9-2-0,125,69,Southpaw,66
 1064,Riki Fukuda," Jan 06, 1981", 24-9-0 (1 NC),185,73,Southpaw,72
 1065,Masio Fullen," Oct 06, 1986", 11-7-0,145,70,Orthodox,70
@@ -511,7 +511,7 @@
 1103,Alex Garcia," Jul 14, 1987", 15-6-0,170,72,Orthodox,69
 1105,Steve Garcia," May 22, 1992", 11-4-0,155,75,Southpaw,72
 1106,Elias Garcia," Sep 13, 1992", 6-2-0,125,67,Southpaw,65
-1107,Rafa Garcia," Aug 05, 1994", 12-1-0,155,70,Orthodox,67
+1107,Rafa Garcia," Aug 05, 1994", 12-2-0,155,70,Orthodox,67
 1112,Pablo Garza," Sep 16, 1983", 12-4-0,145,73,Orthodox,73
 1115,Kelvin Gastelum," Oct 24, 1991", 17-7-0 (1 NC),185,71,Southpaw,69
 1116,Willie Gates," Jan 21, 1987", 12-7-0,125,72,Orthodox,68
@@ -544,7 +544,7 @@
 1184,Jorge Gonzalez," Feb 29, 1984", 16-4-0,205,76,Orthodox,74
 1185,Mikey Gonzalez," Aug 13, 1985", 7-2-0,155,74,Orthodox,71
 1187,Lyman Good," May 26, 1985", 21-6-0 (1 NC),170,74,Orthodox,72
-1188,Jared Gooden," Dec 05, 1993", 17-6-0,170,77,Orthodox,72
+1188,Jared Gooden," Dec 05, 1993", 18-6-0,170,77,Orthodox,72
 1192,Eddie Gordon," Jul 22, 1983", 8-4-0,185,76,Orthodox,72
 1193,Jared Gordon," Sep 06, 1988", 17-4-0,145,68,Orthodox,69
 1195,Malcolm Gordon," May 19, 1990", 13-5-0,125,71,Switch,67
@@ -577,7 +577,7 @@
 1247,Maxim Grishin," May 02, 1984", 31-9-2,220,78,Orthodox,75
 1248,Josh Grispi," Oct 14, 1988", 14-5-0,145,74,Orthodox,71
 1250,Kendall Grove," Nov 12, 1982", 23-17-0 (1 NC),185,79,Orthodox,78
-1252,Chris Gruetzemacher," Jun 16, 1986", 14-4-0,155,68,Orthodox,68
+1252,Chris Gruetzemacher," Jun 16, 1986", 15-4-0,155,68,Orthodox,68
 1253,Vik Grujic," Feb 06, 1977", 6-6-0,170,73,Orthodox,71
 1254,Mike Grundy," Jan 03, 1987", 12-3-0,145,72,Orthodox,67
 1255,Wang Guan," Mar 14, 1986", 20-1-1,145,71,Orthodox,69
@@ -594,7 +594,7 @@
 1276,Chelsea Hackett," Aug 16, 1998", 3-1-1,125,66,Switch,64
 1280,Damir Hadzovic," Aug 08, 1986", 14-6-0,155,70,Orthodox,69
 1281,Tim Hague," May 09, 1983", 21-13-0,260,76,Orthodox,76
-1286,Uriah Hall," Jul 31, 1984", 18-9-0,185,79,Orthodox,72
+1286,Uriah Hall," Jul 31, 1984", 18-10-0,185,79,Orthodox,72
 1287,Ryan Hall," Feb 22, 1985", 8-2-0,145,70,Southpaw,70
 1288,Dennis Hallman," Dec 02, 1975", 53-20-2 (1 NC),155,72,Orthodox,69
 1289,Piotr Hallmann," Aug 25, 1987", 18-6-0,155,71,Orthodox,69
@@ -748,7 +748,7 @@
 1618,Da-Un Jung," Dec 07, 1993", 14-2-1,205,78,Orthodox,76
 1620,Myles Jury," Oct 31, 1988", 17-4-0,145,73,Orthodox,70
 1621,Cristiane Justino," Jul 09, 1985", 21-2-0 (1 NC),145,68,Orthodox,68
-1628,Kai Kamaka," Jan 05, 1995", 8-4-0,145,69,Orthodox,67
+1628,Kai Kamaka," Jan 05, 1995", 8-4-1,145,69,Orthodox,67
 1629,Martin Kampmann," Apr 17, 1982", 20-7-0,170,72,Orthodox,72
 1630,Bharat Kandare," Jun 20, 1987", 5-3-0,135,72,Orthodox,67
 1632,Masanori Kanehara," Nov 19, 1982", 26-12-5,135,67,Orthodox,67
@@ -1334,7 +1334,7 @@
 2848,Ben Rothwell," Oct 17, 1981", 39-13-0,265,78,Orthodox,76
 2850,Khalil Rountree Jr.," Feb 26, 1990", 9-5-0 (1 NC),205,76,Southpaw,73
 2851,Ronda Rousey," Feb 01, 1987", 12-2-0,135,66,Orthodox,67
-2854,Phil Rowe," Jul 18, 1990", 7-3-0,170,80,Orthodox,75
+2854,Phil Rowe," Jul 18, 1990", 8-3-0,170,80,Orthodox,75
 2857,Brandon Royval," Aug 16, 1992", 12-5-0,125,68,Southpaw,69
 2858,Jairzinho Rozenstruik," Mar 17, 1988", 12-2-0,242,78,Orthodox,74
 2859,Mauricio Rua," Nov 25, 1981", 27-12-1,205,76,Orthodox,73
@@ -1500,14 +1500,14 @@
 3216,Lazar Stojadinovic," Mar 22, 1989", 12-5-0,145,68,Southpaw,67
 3218,Julija Stoliarenko," Apr 08, 1993", 9-6-1,135,66,Orthodox,67
 3219,Dustin Stoltzfus," Nov 15, 1991", 13-3-0,185,75,Orthodox,72
-3220,Niklas Stolze," Dec 28, 1992", 12-4-0,170,75,Switch,72
+3220,Niklas Stolze," Dec 28, 1992", 12-5-0,170,75,Switch,72
 3221,Ken Stone," Oct 08, 1982", 11-4-0,135,71,Southpaw,68
 3224,Rick Story," Aug 28, 1984", 19-9-0,170,71,Southpaw,69
 3225,Darko Stosic," Feb 09, 1992", 13-4-0,205,76,Orthodox,72
 3228,Sam Stout," Apr 23, 1984", 20-12-1,155,70,Orthodox,69
 3230,Jesse Strader," May 29, 1991", 5-2-0,135,70,Orthodox,67
 3233,Daniel Straus," Jul 27, 1984", 24-7-0 (1 NC),145,71,Orthodox,67
-3235,Sean Strickland," Feb 27, 1991", 23-3-0,185,76,Orthodox,73
+3235,Sean Strickland," Feb 27, 1991", 24-3-0,185,76,Orthodox,73
 3236,Mark Striegl," Jun 23, 1988", 18-3-0 (1 NC),135,70,Southpaw,68
 3238,Stefan Struve," Feb 18, 1988", 33-13-0,265,84,Orthodox,83
 3242,Tatiana Suarez," Dec 19, 1990", 9-0-0,115,66,Southpaw,65
@@ -1663,7 +1663,7 @@
 3594,Eddie Wineland," Jun 26, 1984", 24-15-1,135,69,Orthodox,67
 3595,Deron Winn," Jun 13, 1989", 7-2-0,185,70,Orthodox,66
 3596,Andre Winner," Nov 09, 1981", 21-11-2,155,73,Orthodox,71
-3599,Jason Witt," Nov 07, 1986", 18-7-0,170,70,Orthodox,70
+3599,Jason Witt," Nov 07, 1986", 19-7-0,170,70,Orthodox,70
 3602,Danyelle Wolf," Sep 08, 1983", 1-0-0,145,70,Orthodox,71
 3605,Nathaniel Wood," May 08, 1993", 17-5-0,140,69,Orthodox,66
 3606,Tyron Woodley," Apr 07, 1982", 19-7-1,170,74,Orthodox,69
@@ -1679,7 +1679,7 @@
 3635,Adam Yandiev," Aug 07, 1988", 9-1-0,185,74,Orthodox,69
 3636,Adrian Yanez," Nov 29, 1993", 14-3-0,135,70,Orthodox,67
 3637,Dongi Yang," Dec 07, 1984", 13-3-0,185,73,Southpaw,70
-3645,Ashley Yoder," Oct 20, 1987", 8-7-0,115,69,Southpaw,67
+3645,Ashley Yoder," Oct 20, 1987", 8-8-0,115,69,Southpaw,67
 3649,Sanghoon Yoo," Jan 18, 1990", 5-1-0,155,74,Orthodox,72
 3651,Yoshiyuki Yoshida," May 10, 1974", 18-9-0,170,70,Southpaw,71
 3656,Jason Young," Jun 28, 1986", 9-6-0,145,73,Orthodox,69
