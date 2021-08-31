@@ -1,37 +1,59 @@
 ,blue_name,red_name,prediction,fav_pct,dog_pct,fav_moneyline,dog_moneyline
-0,Kelvin Gastelum,Jared Cannonier,red,0.54,0.46,-117,117
-1,Mark Madsen,Clay Guida,blue,0.53,0.47,-112,112
-2,Chase Sherman,Parker Porter,red,0.5,0.5,-100,100
-3,Trevin Jones,Mana Martinez,red,0.6,0.4,-150,150
-4,Austin Hubbard,Vinc Pichel,red,0.54,0.46,-117,117
-5,Brandon Royval,Alexandre Pantoja,blue,0.51,0.49,-104,104
-6,Luis Saldana,Austin Lingo,red,0.59,0.41,-143,143
-7,Domingo Pilarte,Brian Kelleher,blue,0.52,0.48,-108,108
-8,Josiane Nunes,Bea Malecki,red,0.68,0.32,-212,212
-9,Fabio Cherant,William Knight,red,0.62,0.38,-163,163
-10,Ignacio Bahamondes,Roosevelt Roberts,red,0.51,0.49,-104,104
-11,Ramiz Brahimaj,Sasha Palatnikov,blue,0.52,0.48,-108,108
-0,Ciryl Gane,Derrick Lewis,red,0.52,0.48,-108,108
-1,Pedro Munhoz,Jose Aldo,red,0.58,0.42,-138,138
-2,Vicente Luque,Michael Chiesa,red,0.58,0.42,-138,138
-3,Angela Hill,Tecia Torres,red,0.71,0.29,-244,244
-4,Casey Kenney,Song Yadong,red,0.63,0.37,-170,170
-5,Rafael Fiziev,Bobby Green,blue,0.62,0.38,-163,163
-6,Drako Rodriguez,Vince Morales,red,0.63,0.37,-170,170
-7,Ed Herman,Alonzo Menifield,blue,0.5,0.5,-100,100
-8,Jessica Penne,Karolina Kowalkiewicz,blue,0.54,0.46,-117,117
-9,Ode Osbourne,Manel Kape,red,0.58,0.42,-138,138
-10,Anderson Dos Santos,Miles Johns,red,0.54,0.46,-117,117
-11,Melissa Gatto,Victoria Leonardo,blue,0.63,0.37,-170,170
-12,Jamey Simmons,Johnny Munoz,red,0.65,0.35,-185,185
-13,Sean Strickland,Uriah Hall,red,0.5,0.5,-100,100
-14,Rani Yahya,Kyung Ho Kang,red,0.56,0.44,-127,127
-15,Gloria de Paula,Cheyanne Buys,red,0.6,0.4,-150,150
-16,Jared Gooden,Niklas Stolze,red,0.5,0.5,-100,100
-17,Jason Witt,Bryan Barberena,red,0.61,0.39,-156,156
-18,Melsik Baghdasaryan,Collin Anglin,red,0.69,0.31,-222,222
-19,Rafa Garcia,Chris Gruetzemacher,blue,0.6,0.4,-150,150
-20,Kai Kamaka,Danny Chavez,blue,0.51,0.49,-104,104
-21,Ashley Yoder,Jinh Yu Frey,red,0.58,0.42,-138,138
-22,Zarrukh Adashev,Ryan Benoit,blue,0.6,0.4,-150,150
-23,Orion Cosce,Phil Rowe,red,0.6,0.4,-150,150
+0,Darren Till,Derek Brunson,red,0.56,0.44,-127,127
+1,Serghei Spivac,Tom Aspinall,red,0.63,0.37,-170,170
+2,David Zawada,Alex Morono,red,0.63,0.37,-170,170
+3,Khalil Rountree Jr.,Modestas Bukauskas,blue,0.53,0.47,-112,112
+4,Luigi Vendramini,Paddy Pimblett,blue,0.6,0.4,-150,150
+5,Ji Yeon Kim,Molly McCann,red,0.57,0.43,-132,132
+6,Liudvik Sholinian,Jack Shore,red,0.73,0.27,-270,270
+7,Charles Jourdain,Julian Erosa,blue,0.63,0.37,-170,170
+8,Marc-Andre Barriault,Dalcha Lungiambula,red,0.7,0.3,-233,233
+9,Marcelo Rojo,Jonathan Martinez,red,0.58,0.42,-138,138
+0,Giga Chikadze,Edson Barboza,blue,0.59,0.41,-143,143
+1,Gilbert Urbina,Bryan Battle,red,0.88,0.12,-733,733
+2,Brady Hiestand,Ricky Turcios,blue,0.56,0.44,-127,127
+3,Daniel Rodriguez,Kevin Lee,blue,0.52,0.48,-108,108
+4,Micheal Gillmore,Andre Petroski,red,0.5,0.5,-100,100
+5,Gerald Meerschaert,Makhmud Muradov,red,0.67,0.33,-203,203
+6,Abdul Razak Alhassan,Alessio Di Chirico,red,0.57,0.43,-132,132
+7,Wellington Turman,Sam Alvey,blue,0.5,0.5,-100,100
+8,Darren Stewart,Dustin Jacoby,blue,0.52,0.48,-108,108
+9,Vanessa Demopoulos,JJ Aldrich,red,0.57,0.43,-132,132
+10,Pat Sabatini,Jamall Emmers,red,0.57,0.43,-132,132
+11,Guido Cannetti,Mana Martinez,red,0.59,0.41,-143,143
+12,Kelvin Gastelum,Jared Cannonier,red,0.54,0.46,-117,117
+13,Mark Madsen,Clay Guida,blue,0.53,0.47,-112,112
+14,Chase Sherman,Parker Porter,red,0.5,0.5,-100,100
+15,Trevin Jones,Mana Martinez,red,0.6,0.4,-150,150
+16,Austin Hubbard,Vinc Pichel,red,0.54,0.46,-117,117
+17,Brandon Royval,Alexandre Pantoja,blue,0.51,0.49,-104,104
+18,Luis Saldana,Austin Lingo,red,0.59,0.41,-143,143
+19,Domingo Pilarte,Brian Kelleher,blue,0.52,0.48,-108,108
+20,Josiane Nunes,Bea Malecki,red,0.68,0.32,-212,212
+21,Fabio Cherant,William Knight,red,0.62,0.38,-163,163
+22,Ignacio Bahamondes,Roosevelt Roberts,red,0.51,0.49,-104,104
+23,Ramiz Brahimaj,Sasha Palatnikov,blue,0.52,0.48,-108,108
+24,Ciryl Gane,Derrick Lewis,red,0.52,0.48,-108,108
+25,Pedro Munhoz,Jose Aldo,red,0.58,0.42,-138,138
+26,Vicente Luque,Michael Chiesa,red,0.58,0.42,-138,138
+27,Angela Hill,Tecia Torres,red,0.71,0.29,-244,244
+28,Casey Kenney,Song Yadong,red,0.63,0.37,-170,170
+29,Rafael Fiziev,Bobby Green,blue,0.62,0.38,-163,163
+30,Drako Rodriguez,Vince Morales,red,0.63,0.37,-170,170
+31,Ed Herman,Alonzo Menifield,blue,0.5,0.5,-100,100
+32,Jessica Penne,Karolina Kowalkiewicz,blue,0.54,0.46,-117,117
+33,Ode Osbourne,Manel Kape,red,0.58,0.42,-138,138
+34,Anderson Dos Santos,Miles Johns,red,0.54,0.46,-117,117
+35,Melissa Gatto,Victoria Leonardo,blue,0.63,0.37,-170,170
+36,Jamey Simmons,Johnny Munoz,red,0.65,0.35,-185,185
+37,Sean Strickland,Uriah Hall,red,0.5,0.5,-100,100
+38,Rani Yahya,Kyung Ho Kang,red,0.56,0.44,-127,127
+39,Gloria de Paula,Cheyanne Buys,red,0.6,0.4,-150,150
+40,Jared Gooden,Niklas Stolze,red,0.5,0.5,-100,100
+41,Jason Witt,Bryan Barberena,red,0.61,0.39,-156,156
+42,Melsik Baghdasaryan,Collin Anglin,red,0.69,0.31,-222,222
+43,Rafa Garcia,Chris Gruetzemacher,blue,0.6,0.4,-150,150
+44,Kai Kamaka,Danny Chavez,blue,0.51,0.49,-104,104
+45,Ashley Yoder,Jinh Yu Frey,red,0.58,0.42,-138,138
+46,Zarrukh Adashev,Ryan Benoit,blue,0.6,0.4,-150,150
+47,Orion Cosce,Phil Rowe,red,0.6,0.4,-150,150
